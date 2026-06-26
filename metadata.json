@@ -1,0 +1,6 @@
+{
+  "name": "حِسْبَة | HISBA",
+  "description": "حاسبة تكلفة المنتجات مع نظام تحويل الوحدات والهالك وتصدير Excel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
